@@ -1,0 +1,60 @@
+.kotakLuar{
+    background-color: rgb(70, 119, 103);
+    width: 100%;
+    display: grid;
+    text-align: center;
+    grid-template-columns: 20% 50% 30% ;
+    grid-template-rows: 50px 200px 100px 100px 100px;
+}
+.kotakDalam1{
+    background-color: #020314;
+    grid-column: 1/4;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kotakDalam2{
+    background-color: #3456b4;
+    grid-column: 1/4;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.kotakDalam3{
+    background-color: #ce3939;
+    grid-row: 3/6;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.kotakDalam4{
+    background-color: #322e5c;
+    grid-column: 2/4;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.kotakDalam5{
+    background-color: #d5d819e0;
+    grid-column: 2/4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.kotakDalam6{
+    background-color: #0b8a0b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.kotakDalam7{
+    background-color: #9ba5c7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
