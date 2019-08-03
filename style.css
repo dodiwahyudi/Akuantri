@@ -280,5 +280,66 @@ nav a:hover{
          .descDalam2 p{
              color: gray;
          }
+.container7{
+    width:100%;
+    height:500px;
+}
+    .desc2{
+        width:100%;
+        height: 250px;
+        display: flex;
+        justify-content: space-around;
+    }
+        .sekilas{
+            width:30%;
+            height: 250px;
+            line-height: 25px;
+        }
+        span{
+            color: rgb(18, 167, 18);
+        }
+        .links{
+            width:30%;
+            line-height: 25px;
+            
+        }
+            .links ul{
+                list-style-type: none;
+                color: green;
+                text-decoration: none;
+            }
+        .downloadApp{
+            width:30%;
 
+        }
+            .downloadApp img{
+                width: 180px;
+                height: 60px;
+            }
+    .desc3{
+        width:"100%";
+        height: 100px;
+        display: flex;
+        justify-content: space-around;
+    }
+        .copyright{
+            width:30%;
+            height: 100px;
+            line-height: 25px;
+        }
+        .tengah{
+            width:30%;
+        }
+        .socmedLogo{
+            width:30%;
+            height: 100px;
+            justify-content: flex-end;
+        }
+            .socmedLogo img{
+                width:30px;
+                height: 23px;
+            }
+            
+
+            
     
